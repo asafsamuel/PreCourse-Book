@@ -1,0 +1,4 @@
+hagay samuel,003,2i3i56,550
+dvir samuel,002,55555,-99
+asaf samuel,001,123123,1250
+noa machliah,004,noa000,-500
