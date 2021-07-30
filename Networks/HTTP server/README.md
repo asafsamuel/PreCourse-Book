@@ -1,2 +1,2 @@
-Put files in desktop!
+Put files folder in desktop!
 The program canno't read files if the base path contains hebrew letters...
